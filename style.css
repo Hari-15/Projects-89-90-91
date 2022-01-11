@@ -9,3 +9,9 @@ body {
     background-color: white;
     border-radius: 15px; 
 }
+
+#submit {
+    width: 600px;
+    border-radius: 15px;
+    border: blue solid 5px;
+}
