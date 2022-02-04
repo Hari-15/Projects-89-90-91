@@ -1,8 +1,8 @@
 body {
-    background-color: lightblue;
+    background-color: rgb(197, 48, 48);
 }
 
-.output {
+#output {
     background: white;
     border-radius: 10px;
     border-top: 10px solid #AA4465;
